@@ -9,6 +9,6 @@ public class sundayTest {
     @RequestMapping("/hello")
     public String  testSunday(){
     System.out.println("sdfsdf");
-        return "you are  big  dog";
+        return "you are  big  dog  a a  ";
     }
 }
